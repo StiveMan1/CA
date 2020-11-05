@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/mosab/Desktop/CA LABS/Week 10/ex1/simulation/modelsim
+vex1
+Z1 !s110 1604584021
+!i10b 1
+!s100 ORQU6oGI:CjVFPeo0<1b60
+IX9kgjiRc6PE]?k[N9<:N01
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1604582782
+8C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/ex1.v
+FC:/Users/mosab/Desktop/CA LABS/Week 10/ex1/ex1.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1604584021.000000
+!s107 C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/ex1.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mosab/Desktop/CA LABS/Week 10/ex1|C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/ex1.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/mosab/Desktop/CA LABS/Week 10/ex1}
+Z7 tCvgOpt 0
+vhalf_adder_testbench
+!s110 1604584022
+!i10b 1
+!s100 LP9S=n25Jl;a`EcBf@Vmc2
+I1L;Kg7T6zIj6W4<5n1df;1
+R2
+R0
+w1604583945
+8C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/half_adder_testbench.v
+FC:/Users/mosab/Desktop/CA LABS/Week 10/ex1/half_adder_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1604584022.000000
+!s107 C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/half_adder_testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/mosab/Desktop/CA LABS/Week 10/ex1|C:/Users/mosab/Desktop/CA LABS/Week 10/ex1/half_adder_testbench.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 9YRF0XiF85;T6Z8:LPLDf0
+IIliRR^147f[gFBWH^]?^10
+R2
+R0
+w1604584010
+8ex1.vo
+Fex1.vo
+L0 264
+R3
+r1
+!s85 0
+31
+R4
+!s107 ex1.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|ex1.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
