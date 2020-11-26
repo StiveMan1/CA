@@ -1,0 +1,8 @@
+# opcode = 0x00 RegWrite = 1 RegDst = 1 ALUSrc = 0 Branch = 0 MemWrite = 0 MemtoReg = 0 funct = 0x20 ALUControl = 010
+# opcode = 0x00 RegWrite = 1 RegDst = 1 ALUSrc = 0 Branch = 0 MemWrite = 0 MemtoReg = 0 funct = 0x22 ALUControl = 110
+# opcode = 0x00 RegWrite = 1 RegDst = 1 ALUSrc = 0 Branch = 0 MemWrite = 0 MemtoReg = 0 funct = 0x24 ALUControl = 000
+# opcode = 0x00 RegWrite = 1 RegDst = 1 ALUSrc = 0 Branch = 0 MemWrite = 0 MemtoReg = 0 funct = 0x25 ALUControl = 001
+# opcode = 0x00 RegWrite = 1 RegDst = 1 ALUSrc = 0 Branch = 0 MemWrite = 0 MemtoReg = 0 funct = 0x2a ALUControl = 111
+# opcode = 0x23 RegWrite = 1 RegDst = 0 ALUSrc = 1 Branch = 0 MemWrite = 0 MemtoReg = 1 funct = 0x2a ALUControl = 010
+# opcode = 0x2b RegWrite = 0 RegDst = 0 ALUSrc = 1 Branch = 0 MemWrite = 1 MemtoReg = 1 funct = 0x2a ALUControl = 010
+# opcode = 0x04 RegWrite = 0 RegDst = 0 ALUSrc = 0 Branch = 1 MemWrite = 0 MemtoReg = 1 funct = 0x2a ALUControl = 110

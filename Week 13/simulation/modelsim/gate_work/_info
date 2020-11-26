@@ -1,0 +1,120 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/simulation/modelsim
+valu_decoder
+Z1 !s110 1606399822
+!i10b 1
+!s100 E1oc?PUPz9_C48E<^LVTK3
+I4a@EViIa1>R7HQ^gYdi[_3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1606399754
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/alu_decoder.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/alu_decoder.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1606399822.000000
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/alu_decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/alu_decoder.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work +incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13
+Z7 tCvgOpt 0
+vcontrol_unit
+R1
+!i10b 1
+!s100 ja3OEM1L:IdP;=eZ?Tzo?0
+IL3WRf1PP9?@KV_DRB<T0N0
+R2
+R0
+w1606399627
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/control_unit.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/control_unit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/control_unit.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/control_unit.v|
+!i113 1
+R5
+R6
+R7
+vdecoder
+R1
+!i10b 1
+!s100 E>kaa33<5i6=lc4knVMo]3
+I8Ub7hZlooW0Xf6Go>fIMf3
+R2
+R0
+w1606399616
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/decoder.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/decoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/decoder.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/decoder.v|
+!i113 1
+R5
+R6
+R7
+vhard_block
+R1
+!i10b 1
+!s100 GZz;<fkEM2WdIUQR40gkO0
+I?dK5W:PM@TzO7I2AZA;6@0
+R2
+R0
+w1606399811
+8decoder.vo
+Fdecoder.vo
+L0 746
+R3
+r1
+!s85 0
+31
+!s108 1606399821.000000
+!s107 decoder.vo|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+.|decoder.vo|
+!i113 1
+R5
+!s92 -vlog01compat -work work +incdir+.
+R7
+vtestbench
+R1
+!i10b 1
+!s100 8j^925n7Zd;RLhW=[8Ag<3
+ICa[[Q1T?GIGQf]M=aBX^V0
+R2
+R0
+w1606396716
+8C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/testbench.v
+FC:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/testbench.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13|C:/Users/42072/OneDrive/Documents/Innopolis/ComputerArchitecture/Lab/Week13/testbench.v|
+!i113 1
+R5
+R6
+R7

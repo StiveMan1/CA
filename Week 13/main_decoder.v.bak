@@ -1,0 +1,11 @@
+module main_decoder(
+	input [5:0] opcode,
+	output reg [1:0] ALUOp,
+	output reg MemtoReg, MemWrite, Branch, ALUSrc, RegDst, RegWrite
+);
+
+	always@ (*) begin
+		case (opcode)
+		endcase
+	end
+endmodule

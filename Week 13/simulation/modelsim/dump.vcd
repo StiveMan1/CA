@@ -1,0 +1,171 @@
+$date
+	Thu Nov 26 15:10:26 2020
+$end
+$version
+	ModelSim Version 10.5b
+$end
+$timescale
+	1ps
+$end
+
+$scope module testbench $end
+$var reg 6 ! opcode [5:0] $end
+$var reg 6 " funct [5:0] $end
+$var wire 1 # MemtoReg $end
+$var wire 1 $ MemWrite $end
+$var wire 1 % Branch $end
+$var wire 1 & ALUSrc $end
+$var wire 1 ' RegDst $end
+$var wire 1 ( RegWrite $end
+$var wire 1 ) ALUControl [2] $end
+$var wire 1 * ALUControl [1] $end
+$var wire 1 + ALUControl [0] $end
+
+$scope module cu $end
+$var wire 1 , opcode [5] $end
+$var wire 1 - opcode [4] $end
+$var wire 1 . opcode [3] $end
+$var wire 1 / opcode [2] $end
+$var wire 1 0 opcode [1] $end
+$var wire 1 1 opcode [0] $end
+$var wire 1 2 funct [5] $end
+$var wire 1 3 funct [4] $end
+$var wire 1 4 funct [3] $end
+$var wire 1 5 funct [2] $end
+$var wire 1 6 funct [1] $end
+$var wire 1 7 funct [0] $end
+$var wire 1 # MemtoReg $end
+$var wire 1 $ MemWrite $end
+$var wire 1 % Branch $end
+$var wire 1 & ALUSrc $end
+$var wire 1 ' RegDst $end
+$var wire 1 ( RegWrite $end
+$var wire 1 ) ALUControl [2] $end
+$var wire 1 * ALUControl [1] $end
+$var wire 1 + ALUControl [0] $end
+$var wire 1 8 ALUOp [1] $end
+$var wire 1 9 ALUOp [0] $end
+
+$scope module md $end
+$var wire 1 , opcode [5] $end
+$var wire 1 - opcode [4] $end
+$var wire 1 . opcode [3] $end
+$var wire 1 / opcode [2] $end
+$var wire 1 0 opcode [1] $end
+$var wire 1 1 opcode [0] $end
+$var reg 2 : ALUOp [1:0] $end
+$var reg 1 ; MemtoReg $end
+$var reg 1 < MemWrite $end
+$var reg 1 = Branch $end
+$var reg 1 > ALUSrc $end
+$var reg 1 ? RegDst $end
+$var reg 1 @ RegWrite $end
+$upscope $end
+
+$scope module ad $end
+$var wire 1 A funct [5] $end
+$var wire 1 B funct [4] $end
+$var wire 1 C funct [3] $end
+$var wire 1 D funct [2] $end
+$var wire 1 8 funct [1] $end
+$var wire 1 9 funct [0] $end
+$var wire 1 6 ALUOp [1] $end
+$var wire 1 7 ALUOp [0] $end
+$var reg 3 E ALUControl [2:0] $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 !
+b100000 "
+b10 :
+0;
+0<
+0=
+0>
+1?
+1@
+b10 E
+0#
+0$
+0%
+0&
+1'
+1(
+0+
+1*
+0)
+09
+18
+07
+06
+05
+04
+03
+12
+01
+00
+0/
+0.
+0-
+0,
+zD
+zC
+zB
+zA
+$end
+#5
+b100010 "
+16
+#10
+b100100 "
+06
+15
+#15
+b100101 "
+17
+b110 E
+1)
+#20
+b101010 "
+07
+16
+05
+14
+#25
+b100011 !
+11
+10
+1,
+1;
+1>
+0?
+b0 :
+1#
+1&
+0'
+08
+#30
+b101011 !
+1.
+1<
+0@
+1$
+0(
+#35
+b100 !
+01
+00
+1/
+0.
+0,
+0<
+1=
+0>
+b1 :
+0$
+1%
+0&
+19
